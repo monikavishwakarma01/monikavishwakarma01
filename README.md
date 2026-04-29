@@ -2,7 +2,9 @@
 ## 👋 Hi, I'm Monika Vishwakarma
 
 🎓 B.Tech CSE (AIDS) Student
+
 💻 Frontend Developer | Aspiring Full Stack Web Developer
+
 🚀 Passionate about building modern web applications
 
 ---
